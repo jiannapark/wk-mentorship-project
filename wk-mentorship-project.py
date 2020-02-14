@@ -3,7 +3,7 @@
 2. Choose 1 random number from mentors list. If it hasn't been chosen before, that number is added to mentors_chosen list.
 3. Choose 1 random number from mentees list. If it hasn't been chosen before, that number is added to mentees1_chosen list.
 4. Choose 1 random number from mentees list. If it hasn't been chosen before, that number is added to mentees2_chosen list.
-5. The mentors will be paired with the mentees from both mentees lists with the same index-location as their own.
+5. The mentors will be paired with the mentees from both mentees lists with the same index-position as their own.
 (ex. the 7th person in mentors_chosen list will mentor the 7th person in mentees1_chosen list and the 7th person in mentees2_chosen list.)
 '''
 
